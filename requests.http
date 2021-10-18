@@ -1,0 +1,10 @@
+
+POST http://localhost:3000/songs.json
+Content-Type: application/json
+
+{
+  "title": "Hyperspeed", "album": "Starship Velociraptor", "artist": "Jonathan Young", "year": 2021
+}
+
+###
+
